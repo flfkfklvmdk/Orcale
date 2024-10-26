@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord",
+            "projectName": "Orcale_813830f0"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "CTF_8",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
