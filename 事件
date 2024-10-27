@@ -1,0 +1,10 @@
+//事件是可以被组件识别的代码
+按钮 图片 事件源(按钮，图片，窗体)
+//事件：某些操作
+     如：鼠标单击，鼠标划入......
+//绑定监听：当事件源上发生了某个事件，则执行某段代码
+(KeyListener(键盘监听),MouseListener(鼠标监听),ActionListener(动作监听))
+//mouseListener:单击操作，划动操作
+//keyListener：keyPressed(按下时触发),keyReleased(松开时触发)
+细节1：如果按下不松,会重复调用keyPressed方法
+细节2:识别按键方法:getKeyCode()

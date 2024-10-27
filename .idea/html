@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>公司简介-杭州景顺旅游用品有限公司</title>
+
+	  <!-- 网页显示小图标 -->
+	  <link rel="shortcut icon" href="img/favicon.ico">
+
+	<link href="css/side_bar.css" rel="stylesheet">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+	
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/carousel.css" rel="stylesheet">
+	<link href="css/dashboard.css" rel="stylesheet">
+	<link href="css/company.css" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+		<img class="topimg" src="img/topimg.png" alt="公司宣传顶栏">
+		<div id="side_bar">
+			<div id="izl_rmenu" class="izl-rmenu">
+				<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2848385447&amp;site=qq&amp;menu=yes" class="btn btn-qq"></a>
+				<div class="btn btn-wx">
+					<img class="pic" src="img/sprite2.png">
+				</div>
+				<div class="btn btn-phone">
+					<div class="phone">13515817902</div>
+				</div>
+				<div class="btn btn-top"></div>
+			</div>
+		</div>
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="http://allnewcosmetic.co.kr/">Beauty Friends</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="navbar-nav-li"><a href="index.html">首页</a></li>
+                <li class="active dropdown navbar-nav-li">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">公司简介 <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="company.html?op=0">品牌简介</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="company.html?op=1">大事记</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="company.html?op=2">公司风采</a></li>
+						<li role="separator" class="divider"></li>
+						<!-- 虚标的说明文字 -->
+						<!-- <li class="dropdown-header">Nav header</li> -->
+						<li><a href="company.html?op=3">产品证书</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="company.html?op=4">公司地址</a></li>
+					</ul>
+				</li>
+				<li class="dropdown navbar-nav-li">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">在线加盟 <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="join.html?op=0">代理政策</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="join.html?op=1">在线预约登记</a></li>
+					</ul>
+				</li>
+                <li class="navbar-nav-li"><a href="college.html">绿微商学院</a></li>
+				<li class="navbar-nav-li"><a href="info.html">相关资讯</a></li>
+                <li class="dropdown navbar-nav-li">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">联系方式 <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="contact.html?op=0">联系方式</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="contact.html?op=1">疑难提问</a></li>
+					</ul>
+				</li>
+				<li class="navbar-nav-li"><a href="lawservice.html">法律声明</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+        
+
+    <!-- Carousel
+    ================================================== -->
+    
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
+			<li data-target="#myCarousel" data-slide-to="4"></li>
+		  </ol>
+		  <div class="carousel-inner" role="listbox">
+			<div class="item active">
+			  <img class="first-slide" src="img/wheel1.png" alt="First slide">
+			</div>
+			<div class="item">
+			  <img class="second-slide" src="img/wheel2.png" alt="Second slide">
+			</div>
+			<div class="item">
+			  <img class="second-slide" src="img/wheel3.png" alt="Third slide">
+			</div>
+			<div class="item">
+			  <img class="second-slide" src="img/wheel4.png" alt="Fourth slide">
+			</div>
+			<div class="item">
+			  <img class="second-slide" src="img/wheel5.png" alt="Fifth slide">
+			</div>
+		  </div>
+		  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		  </a>
+		  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		  </a>
+		</div><!-- /.carousel -->
+		<div id="tabinfo">
+		  <!-- Nav tabs -->
+		  <ul class="nav nav-tabs" role="tablist">
+			<li id="tab1" role="presentation" class="active"><a href="#tabpanel1" aria-controls="tabpanel1" role="tab" data-toggle="tab">品牌简介</a></li>
+			<li id="tab2" role="presentation"><a href="#tabpanel2" aria-controls="tabpanel2" role="tab" data-toggle="tab">大事记</a></li>
+			<li id="tab3" role="presentation"><a href="#tabpanel3" aria-controls="tabpanel3" role="tab" data-toggle="tab">公司风采</a></li>
+			<li id="tab4" role="presentation"><a href="#tabpanel4" aria-controls="tabpanel4" role="tab" data-toggle="tab">产品证书</a></li>
+			<li id="tab5" role="presentation"><a href="#tabpanel5" aria-controls="tabpanel5" role="tab" data-toggle="tab">公司地址</a></li>
+		  </ul>
+
+		  <!-- Tab panes -->
+		  <div class="tab-content">
+			<div role="tabpanel" class="tab-pane active" id="tabpanel1">
+			  <!-- <div class="row placeholders">
+				<p id="rowp">
+				  <img src="img/cominfo.jpg" alt="品牌简介图片" style="PADDING-RIGHT: 15px; FLOAT: left" border=0 />
+				  HangZhou Some Electronics Co., Ltd. specializes in R&amp;D, production and sales of precision connectors. Its products are used in computers, telecom network equipments, industrial apparatuses, ect. The Company is armed with advanced precision mold manufacturing equipment, high-speed hardware pressing equipment, precision plastic injection equipment, automatic assembly line and inspection/testing devices.The company adheres to the business principle of "technology for development and quality for existence", and provides customers with quality products and considerate service based on its years of experience in R&amp;D, procuction and management, great technical strength and the mature quality management system.
+				</p>
+				<p>HangZhou Some Electronics Co., Ltd. specializes in R&amp;D, production and sales of precision connectors. Its products are used in computers, telecom network equipments, industrial apparatuses, ect. The Company is armed with advanced precision mold manufacturing equipment, high-speed hardware pressing equipment, precision plastic injection equipment, automatic assembly line and inspection/testing devices.The company adheres to the business principle of "technology for development and quality for existence", and provides customers with quality products and considerate service based on its years of experience in R&amp;D, procuction and management, great technical strength and the mature quality management system.</p>
+			  </div> -->
+			  <img src="img/brandinfo.png" alt="品牌简介图片" style="width: 100%;" />
+			</div>
+			<div role="tabpanel" class="tab-pane" id="tabpanel2">
+			  <img src="img/bignote.jpg" alt="大事记图片" style="width: 100%;" />
+			</div>
+			<div role="tabpanel" class="tab-pane" id="tabpanel3">
+				<img src="img/reward.png" alt="公司风采图片" style="width: 100%;" />
+			</div>
+			<div role="tabpanel" class="tab-pane" id="tabpanel4">
+			  <img src="img/certificate.jpg" alt="产品证书图片" style="width: 100%;" />
+			</div>
+			<div role="tabpanel" class="tab-pane" id="tabpanel5">
+			  <div style="text-align: center;">
+				  <!-- <br />
+				  <table style="margin:0 auto;text-align:left;">
+					<tbody>
+					  <tr>
+					    <td>Address:</td>
+						<td>No. 19, Zhongshan Road, Jiaxing City</td>
+					  </tr>
+					  <tr>
+					    <td>Tel:</td>
+						<td>+86-769-83521388</td>
+					  </tr>
+					  <tr>
+					    <td>Fax:</td>
+						<td>+86-769-83521488</td>
+					  </tr>
+					  <tr>
+					    <td>E-Mail:</td>
+						<td>myweb@163.com</td>
+					  </tr>
+					  <tr>
+					    <td>Postcode:</td>
+						<td>314001</td>
+					  </tr>
+					</tbody>
+				  </table>
+				  <br /> -->
+				  <img src="img/comaddress.png" alt="公司地址图片" style="width: 100%;" />
+			  </div>
+			</div>
+		  </div>
+		</div>
+        <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <footer id = "footer">
+	  
+		<link href="css/bottommenu.css" rel="stylesheet" type="text/css" />
+		<div id="bottomCompany">
+			<front>Copyright(C)2009-2016 杭州景顺旅游用品有限公司</front>
+		</div>
+		<div id="bottomRecords">
+			<front>浙ICP备10002594号-2</front>
+		</div>
+      </footer>
+
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/side_bar.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <!-- <script src="../../assets/js/vendor/holder.min.js"></script> -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+	<script charset="utf-8" src="js/company.js" language="javascript" type="text/javascript"></script>
+  </body>
+</html>
