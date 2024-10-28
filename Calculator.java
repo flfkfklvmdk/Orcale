@@ -101,11 +101,9 @@ public class Calculator
                 public void mouseClicked(MouseEvent e) {
                     if (idx == 0) { // "金融" button
                         new FinanceCalculator().init();
-                        frame.setVisible(false);
                     }
                     else if (idx == 1) {// "科学" button
                         new ScientificCalculator().init();
-                        frame.setVisible(false);
                     }
                 }
 
