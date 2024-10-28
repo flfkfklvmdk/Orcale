@@ -105,6 +105,9 @@ public class Calculator
                     else if (idx == 1) {// "科学" button
                         new ScientificCalculator().init();
                     }
+                    else if (idx == 2) {// "BMI" button
+                        new BMI_cal();
+                    }
                 }
 
                 @Override
@@ -211,6 +214,18 @@ public class Calculator
 
         frame.add(panel);
     }
+    // 退格功能
+    private void backspace() {
+        if (!data.isEmpty()) {
+            data = data.substring(0, data.length() - 1);
+            updateTextField();
+        }
+    }
+    // 清空功能
+    private void clear() {
+        data = "";
+        updateTextField();
+    }
 
 
     /**
@@ -302,6 +317,10 @@ public class Calculator
             data = "";
             isLeftAvailable = false;
             textField.setText(data);
+        }else if("退格".equals(content)){
+            backspace();
+        }else if("清空".equals(content)){
+                clear();
         }
 
     }
@@ -430,5 +449,8 @@ public class Calculator
             g2d.dispose();
         }
     }
-
+    // 更新文本域显示
+    private void updateTextField() {
+        textField.setText(data.isEmpty()? "0" : data);
+    }
 }
